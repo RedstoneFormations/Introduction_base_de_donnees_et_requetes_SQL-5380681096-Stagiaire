@@ -1,0 +1,4 @@
+```sql
+SELECT *
+FROM Employees;
+```
